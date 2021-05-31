@@ -1,0 +1,6 @@
+include ':room'
+include ':preferences'
+include ':notebook'
+include ':internalfilestorage'
+include ':app'
+rootProject.name = "rumireapolyanskiypractice6"
